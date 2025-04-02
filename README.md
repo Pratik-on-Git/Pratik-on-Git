@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on Data based projects<br>🤝 I’m looking for help with DSA<br>💬 Ask me about absolutely anything
+🌱 I’m currently learning Full Stack Web Development<br>👯 I’m looking to collaborate on Data based projects<br>🤝 I’m looking for help with DSA<br>💬 Ask me about absolutely anything
 
 
 ## 🌐 Socials:
