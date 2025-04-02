@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Full Stack Web Development.<br>👯 I’m looking to collaborate on unique projects.<br>⚡ Fun fact - I'm a Guitarist, Composer, Songwritter.
+🔭 I’m currently learning Full Stack Web Development.<br>👯 I’m looking to collaborate on unique projects.<br>⚡ Fun fact - I'm a Guitarist, Composer, and Songwriter.
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratik-on-Git&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
