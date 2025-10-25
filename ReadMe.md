@@ -80,11 +80,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rubyonrails" height="40" alt="ruby on rails logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
@@ -97,7 +101,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31jm5zewdz6mxhratpje2s4w5zfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jm5zewdz6mxhratpje2s4w5zfu&count=3" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qrzofewzchv65hdxvyvetqp3yq&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
